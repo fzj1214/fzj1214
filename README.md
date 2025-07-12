@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi there, I’m fzj1214
 
-<!--
-**fzj1214/fzj1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Physics Student @ Fudan University, Shanghai**  
+💻 **Programmer | Python & Node.js Enthusiast**  
+🌏 **Based in China**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- **[xhs_auto_publisher_js](https://github.com/fzj1214/xhs_auto_publisher_js)**  
+  My first PC application for automating publishing on 小红书 (XHS).  
+  - Automates content publishing  
+  - Built with Node.js  
+  - Easy to use and extend!
+
+## 👀 Find Me Here
+
+- 小红书 (XHS): [我的小红书主页](https://www.xiaohongshu.com/user/profile/66839694000000000b031456?xsec_token=YBowq3Rwmt0VTbogDv-XoPOPoBHpQ3F6Dc2GCfCCM6YwE%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=66839694000000000b031456&apptime=1752303374&share_id=7fb5731a9c834295b63c8deb27a0c6a2&share_channel=copy_link)
+
+---
+
+## 🧑‍🔬 About Me
+
+- 2nd year physics student at Fudan University
+- Interested in physics, software engineering, and the intersection between science & code
+- Passionate about learning, building, and sharing
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, JavaScript (Node.js)
+- **Interests:** Automation, scientific computing, data analysis, and PC applications
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [fzj1214](https://github.com/fzj1214)
+- **WeChat:**  
+  Scan the QR-code below to connect with me on WeChat!
+
+![image1](image1)
+
+---
+
+*“Exploring the world through equations and code.”*
