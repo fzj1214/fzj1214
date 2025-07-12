@@ -41,7 +41,7 @@
 - **WeChat:**  
   Scan the QR-code below to connect with me on WeChat!
 
-![image1](image1)
+![image1](https://github.com/fzj1214/fzj1214/blob/main/9bb4d8fd0f2eb8269066c5ac1c868c1c.jpg)
 
 ---
 
